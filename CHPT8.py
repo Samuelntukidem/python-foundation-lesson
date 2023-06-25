@@ -23,7 +23,8 @@
 # x='+'.join(L)
 # print(x)
 
-# l=[i for i in range(5) Numbers=input('Enter the number: ')]   #This syntax doesn't work
+#OR
+print('+'.join([input('Enter the number: ') for i in range(5)]))
 
 #3
 # sent=input('Enter a sentence: ')
