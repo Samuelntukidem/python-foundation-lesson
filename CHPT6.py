@@ -80,12 +80,12 @@
 # print (S)
 
 #7
-Word=input('Enter a word: ')
-Reverse=Word[::-1]
-if Word==Reverse:               #what's wrong with this if statement?
-    print(Word,'is a palindrome')
-else:
-    print(Word,'is not a palindrome')
+# Word=input('Enter a word: ')
+# Reverse=Word[::-1]
+# if Word==Reverse:               #what's wrong with this if statement?
+#     print(Word,'is a palindrome')
+# else:
+#     print(Word,'is not a palindrome')
 
 #8      #Not Correct
 # numE=eval(input('Enter number of email address(s): '))
